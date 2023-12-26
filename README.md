@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://rishavchanda.io">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*ei_Ce5ZqUHkhF9N1oku3Hg.gif" alt="MasterHead" width="600" height="auto"/>
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*ei_Ce5ZqUHkhF9N1oku3Hg.gif" alt="MasterHead" width="500" height="auto"/>
   </a>
 </div>
 <h1 align="center">Hi 👋, I'm Nurbek Bektursyn</h1>
