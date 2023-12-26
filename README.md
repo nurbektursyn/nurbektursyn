@@ -20,6 +20,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurbektursyn&show_icons=true&locale=en&layout=compact" alt="nurbektursyn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurbektursyn&show_icons=true&locale=en" alt="nurbektursyn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurbektursyn&" alt="nurbektursyn" /></p>
