@@ -3,7 +3,7 @@
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*ei_Ce5ZqUHkhF9N1oku3Hg.gif" alt="MasterHead" width="500" height="auto"/>
   </a>
 </div>
-<h1 align="center">Hi 👋, I'm Nurbek Bektursyn</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nurbek Bektursyn</h1>
 <h3 align="center">A passionate data scientist currently based in Vienna, Austria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurbektursyn&label=Profile%20views&color=0e75b6&style=flat" alt="nurbektursyn" /> </p>
